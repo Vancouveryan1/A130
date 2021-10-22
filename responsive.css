@@ -1,0 +1,42 @@
+@media (max-width: 1000px) {
+
+.lesson {
+    width: 50%;
+    margin-bottom: 50px;
+    } 
+
+.banner h1 {
+    font-size: 40px;
+    }
+      
+      
+.banner p {
+    font-size: 20px;
+    }
+}
+
+@media all and (max-width: 670px) {
+
+.character {
+    width: 100%;
+    }
+.banner {
+    text-align: center;
+    }
+.header-right {
+    display: none;
+    }
+.checkbtn {
+    display: block;
+} 
+    
+.banner h1 {
+    font-size: 36px;
+    line-height: 36px;
+    }
+      
+.banner p {
+    font-size: 26px;
+    line-height: 20px;
+    }
+}
